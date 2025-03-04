@@ -1,0 +1,5 @@
+Tensorflow
+NumPy
+Pandas
+Scikit-learn
+pickle
